@@ -19,7 +19,7 @@
     min-height: 100vh;
     font-family: 'Inter', sans-serif;
     display: grid;
-    margin: 2rem;
+    margin: 2rem auto;
     place-content: center;
     color: var(--Very-dark-blue);
  }
@@ -372,4 +372,5 @@
         border: none;
         margin-top: 2rem;
     }
+
 }
