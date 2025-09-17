@@ -19,7 +19,7 @@
     min-height: 100vh;
     font-family: 'Inter', sans-serif;
     display: grid;
-    margin: 2rem auto;
+    margin: 2rem;
     place-content: center;
     color: var(--Very-dark-blue);
  }
@@ -41,7 +41,7 @@
     justify-content: space-between;
     align-items: center;
     padding: 3px;
-    margin: 7px;
+    margin: 7px auto;
  }
 
  .main-nav img:hover{
@@ -374,3 +374,4 @@
     }
 
 }
+
